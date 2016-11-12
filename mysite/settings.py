@@ -25,7 +25,7 @@ SECRET_KEY = 'jzy$wfx4+a!qc!3)^$*x_=hbm%)v!&9vatmrtwh)6l@51g0v3c'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['shbuc.pythonanywhere.com']
+ALLOWED_HOSTS = ['shbuc.pythonanywhere.com', '127.0.0.1',]
 
 
 # Application definition
